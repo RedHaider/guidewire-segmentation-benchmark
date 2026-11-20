@@ -1,0 +1,10 @@
+{
+  "global_threshold": {
+    "mean_dice": 0.6585373902363415,
+    "std_dice": 0.026716141954483925
+  },
+  "ridge_adaptive": {
+    "mean_dice": 0.3708920378660335,
+    "std_dice": 0.022807913920039207
+  }
+}
